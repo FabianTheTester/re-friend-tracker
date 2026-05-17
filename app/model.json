@@ -293,7 +293,7 @@
                     },
                     {
                         "type": "button",
-                        "name": "Edit Friend",
+                        "name": "EditFriend",
                         "icon": "fa-user",
                         "color": "green",
                         "form": {
@@ -302,7 +302,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "Add Activity",
+                        "name": "AddActivity",
                         "icon": "fa-calendar",
                         "color": "green",
                         "form": {
